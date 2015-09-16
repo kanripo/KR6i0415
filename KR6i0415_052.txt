@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:18:27.953988
+#+DATE: 2015-08-30 20:18:40.859779
 #+TITLE: 正法念處經
 #+PROPERTY: CBETA_ID T17n0721
 #+PROPERTY: ID KR6i0415
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 721
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@NANZANG
 #+PROPERTY: LASTPB <pb:KR6i0415_T_052-0304c> 
 #+PROPERTY: JUAN 52
 ¶
-
- 《正法念處經》卷第五十二¶
+《正法念處經》卷第五十二¶
 ¶
 元魏婆羅門瞿曇般若流支譯¶
 觀天品之三十一(夜摩天之十七)¶

@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:18:27.849934
+#+DATE: 2015-08-30 20:18:40.773667
 #+TITLE: 正法念處經
 #+PROPERTY: CBETA_ID T17n0721
 #+PROPERTY: ID KR6i0415
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 721
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@NANZANG
 #+PROPERTY: LASTPB <pb:KR6i0415_T_049-0288a> 
 #+PROPERTY: JUAN 49
 ¶
-
- 《正法念處經》卷第四十九¶
+《正法念處經》卷第四十九¶
 ¶
 元魏婆羅門瞿曇般若流支譯¶
 觀天品之二十八(夜摩天之十四)¶
@@ -210,7 +209,7 @@
 
 又聞邪法。歌咏讚頌。復有大過。謂彼惡人。¶
 貪作歌咏。未曾聞來。而便讚頌。或時妄語。¶
-彼人常近不正行者。猶如狂人。心㦜動故。於¶
+彼人常近不正行者。猶如狂人。心[懂-重+隻]動故。於¶
 一切處。皆悉往到。讚咏歌頌。繫縛邪語。讚妄¶
 語者。種種所說。所有口業。皆悉妄語。不曾一¶
 實。如是之人。歌咏覆心。復近其餘。富貴惡¶
