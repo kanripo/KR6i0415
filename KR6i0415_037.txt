@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:18:27.463798
+#+DATE: 2015-08-30 20:18:56.654329
 #+TITLE: 正法念處經
 #+PROPERTY: CBETA_ID T17n0721
 #+PROPERTY: ID KR6i0415
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 721
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHENG
 #+PROPERTY: LASTPB <pb:KR6i0415_T_037-0215a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 37
 ¶
 ¶
-
- 《正法念處經》卷第三十七¶
+《正法念處經》卷第三十七¶
 ¶
 元魏婆羅門瞿曇般若流支譯¶
 觀天品之十六(夜摩天之二)¶
@@ -420,8 +419,7 @@
 牟修樓陀。何者復是第十天道。而著彼道。得¶
 到天上。謂柔軟心。牟修樓陀。彼柔軟心。有四¶
 功德。一者於他不生怨嫌。二者雖作而不堅¶
-固。三者不為瞋恚所惱。四者身壞命終生¶
-天。此有偈言。¶
+固。三者不為瞋恚所惱。四者身壞命終生天。此有偈言。¶
 
 #+BEGIN_VERSE
 「　若善淨無垢

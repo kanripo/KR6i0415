@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:18:26.712336
+#+DATE: 2015-08-30 20:18:55.927239
 #+TITLE: 正法念處經
 #+PROPERTY: CBETA_ID T17n0721
 #+PROPERTY: ID KR6i0415
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 721
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHENG
 #+PROPERTY: LASTPB <pb:KR6i0415_T_015-0085b> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 15
 ¶
 ¶
-
- 《正法念處經》卷第十五¶
+《正法念處經》卷第十五¶
 ¶
 元魏婆羅門瞿曇般若流支譯¶
 地獄品之十一¶
@@ -117,8 +116,7 @@
 碎散。如蠟蜜塊。又復更生。生已棒打。破壞¶
 碎散。是彼惡業。作集勢力。受彼果報。若脫¶
 彼凾。所受苦惱。復入鐵林。自業道行。入彼¶
-鐵林。一切身分。分分析裂。劈割令散。墮鐵¶
-床上。彼惡業人。一切身分皆悉破壞。若脫¶
+鐵林。一切身分。分分析裂。劈割令散。墮鐵床上。彼惡業人。一切身分皆悉破壞。若脫¶
 彼處。望救望歸。處處馳走。復雨鐵刀。劈割
 <pb:KR6i0415_T_015-0086c>¶
 其身。一切筋脈。斷絕破壞。唯有骨網。無有¶
