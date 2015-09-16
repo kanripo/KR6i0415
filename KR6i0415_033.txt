@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:18:27.324828
+#+DATE: 2015-08-30 20:19:02.658801
 #+TITLE: 正法念處經
 #+PROPERTY: CBETA_ID T17n0721
 #+PROPERTY: ID KR6i0415
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 721
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0415_T_033-0190b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 33
 ¶
 ¶
-
- 《正法念處經》卷第三十三¶
+《正法念處經》卷第三十三¶
 ¶
 元魏婆羅門瞿曇般若流支譯¶
 觀天品之十二(三十三天之九)¶
@@ -429,7 +428,7 @@
 五一心係念。¶
 
 復次第六一心係念。見如是過於塚間樹下。¶
-若草𧂐邊。若山㵎邊。若住空舍。無所愛著。亦¶
+若草[卄/積]邊。若山[澗-日+月]邊。若住空舍。無所愛著。亦¶
 無親愛。不親近他。善法增長。得自利益。遠避¶
 眾人。是名第六一心係念。¶
 

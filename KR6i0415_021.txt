@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:18:26.901188
+#+DATE: 2015-08-30 20:19:02.276882
 #+TITLE: 正法念處經
 #+PROPERTY: CBETA_ID T17n0721
 #+PROPERTY: ID KR6i0415
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 721
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0415_T_021-0119b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 21
 ¶
 ¶
-
- 《正法念處經》卷第二十一¶
+《正法念處經》卷第二十一¶
 ¶
 元魏婆羅門瞿曇般若流支譯¶
 畜生品第五之四¶
@@ -68,7 +67,7 @@
 眾。一切諸天。皆共瞻仰帝釋天王。時天帝¶
 釋。見是天眾。皆大歡喜。坐眾寶殿。其殿嚴¶
 麗。七寶莊嚴。或以光寶而為嚴飾。或有金¶
-色以為莊嚴。或毘琉璃。或以頗梨。或以車𤦲。¶
+色以為莊嚴。或毘琉璃。或以頗梨。或以車[(王*巨)/木]。¶
 或以迦羅種種大寶。以為莊嚴。或種種摩尼。¶
 以為莊嚴。寶網羅絡。懸眾寶鈴。端嚴殊妙。如¶
 業果報。得此勝殿。其身光明。威德赫焰。位¶

@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:18:26.872731
+#+DATE: 2015-08-30 20:19:02.253165
 #+TITLE: 正法念處經
 #+PROPERTY: CBETA_ID T17n0721
 #+PROPERTY: ID KR6i0415
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 721
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0415_T_020-0114a> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 20
 ¶
 ¶
-
- 《正法念處經》卷第二十¶
+《正法念處經》卷第二十¶
 ¶
 元魏婆羅門瞿曇般若流支譯¶
 畜生品第五之三¶
@@ -331,7 +330,7 @@
 住。莫作是意。欲還宮城。奮迅威武。令增身¶
 力。迴詣戰場。莫歸本處。時阿修羅。聞是語¶
 已。復往趣彼四天王所。更共鬪戰。雨大石¶
-山。雷電注雨。黑雲黤𩅾列陣大鬪。見者¶
+山。雷電注雨。黑雲[雲*(電-雨+大)][雲*甚]列陣大鬪。見者¶
 毛竪。天復得勝。破阿修羅軍。一切諸阿修¶
 羅。作是思惟。天有大力。我當歸彼第二住處¶
 星鬘城中。阿修羅王以求救護利益安樂破¶

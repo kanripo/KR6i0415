@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:18:27.749930
+#+DATE: 2015-08-30 20:19:03.083445
 #+TITLE: 正法念處經
 #+PROPERTY: CBETA_ID T17n0721
 #+PROPERTY: ID KR6i0415
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 721
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0415_T_046-0270b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 46
 ¶
 ¶
-
- 《正法念處經》卷第四十六¶
+《正法念處經》卷第四十六¶
 ¶
 元魏婆羅門瞿曇般若流支譯¶
 觀天品之二十五(夜摩天之十一)¶

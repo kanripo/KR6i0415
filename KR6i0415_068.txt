@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:18:28.523647
+#+DATE: 2015-08-30 20:19:03.769774
 #+TITLE: 正法念處經
 #+PROPERTY: CBETA_ID T17n0721
 #+PROPERTY: ID KR6i0415
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 721
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0415_T_068-0401a> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 68
 ¶
 ¶
-
- 《正法念處經》卷第六十八¶
+《正法念處經》卷第六十八¶
 ¶
 元魏婆羅門瞿曇般若流支譯¶
 身念處品之五¶
@@ -335,7 +334,7 @@
 等異天止住。彼以聞慧。或以天眼。見須彌山¶
 王。有三十三天。住在山頂。所受樂行。不可¶
 具說。城名善見。縱廣十千由旬。七寶莊嚴。因¶
-陀青寶。金剛車𤦲赤蓮花寶。柔軟大寶。以為¶
+陀青寶。金剛車[(王*巨)/木]赤蓮花寶。柔軟大寶。以為¶
 莊嚴。有善法堂。廣五百由旬。毘琉璃珠。以為¶
 欄楯。真金為壁。一切門戶。亦復如是。以一切¶
 莊嚴。嚴飾殿堂。釋迦天王。住善法堂。以善業¶
