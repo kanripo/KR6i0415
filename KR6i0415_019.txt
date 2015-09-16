@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:18:26.838530
+#+DATE: 2015-08-30 20:18:36.516889
 #+TITLE: 正法念處經
 #+PROPERTY: CBETA_ID T17n0721
 #+PROPERTY: ID KR6i0415
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 721
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@BEIZANG
 #+PROPERTY: LASTPB <pb:KR6i0415_T_019-0109a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 19
 ¶
 ¶
-
- 《正法念處經》卷第十九¶
+《正法念處經》卷第十九¶
 ¶
 元魏婆羅門瞿曇般若流支譯¶
 畜生品之二¶
@@ -21,8 +20,7 @@
 彼以天眼智慧觀察阿修羅王所住之處縱廣¶
 一萬三千由旬。園林浴池。蓮華欝茂。遊戲之¶
 處。異類眾鳥。以為莊嚴。阿修羅城。黃金為¶
-地。處處多有摩尼寶珠。珂貝嚴飾。多眾婇¶
-女。端正殊妙。羅睺阿修羅王之所主領。不相
+地。處處多有摩尼寶珠。珂貝嚴飾。多眾婇女。端正殊妙。羅睺阿修羅王之所主領。不相
 <pb:KR6i0415_T_019-0109b>¶
 諍訟。隨意憶念。能有所至。所住境界。有十¶
 三處。何等十三。一名遮迷。二名勇走。三名¶
