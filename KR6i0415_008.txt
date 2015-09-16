@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:18:26.473254
+#+DATE: 2015-08-30 20:18:52.490073
 #+TITLE: 正法念處經
 #+PROPERTY: CBETA_ID T17n0721
 #+PROPERTY: ID KR6i0415
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 721
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6i0415_T_008-0041b> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 8
 ¶
 ¶
-
- 《正法念處經》卷第八¶
+《正法念處經》卷第八¶
 ¶
 元魏婆羅門瞿曇般若流支譯¶
 地獄品之四¶
@@ -446,7 +445,7 @@
 惱。此中具足。轉重轉勝。彼地獄中所受苦惱。¶
 彼一切苦。此地獄中皆悉十倍。何以故。以作¶
 惡業堅重多故。殺盜邪行。與持戒人酒。四倍¶
-惡業。此地獄受堅䩕多重種種苦惱。壽命延¶
+惡業。此地獄受堅[革*卬]多重種種苦惱。壽命延¶
 長。彼四倍業果報苦惱。彼比丘觀察如是四¶
 倍惡業苦惱果報。既思惟已。則於生死十倍¶
 厭離。又修行者。內心思惟。隨順正法。觀察¶
